@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIp5iWO30L+5tdZrP32nLNQCFfP8h0rs/8acd/HGTOl7jlDA3QAfXKr8oy1tyHBS7N+6YaXRDcps/c7EDVmS2g==",
+  "success": true,
+  "projectFilePath": "/home/daniel/MeusProjetos/crud-mysql/Loja.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
